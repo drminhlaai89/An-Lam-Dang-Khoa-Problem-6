@@ -88,7 +88,7 @@ This document specifies the design and functionality of the API Service module. 
 ## Database Schema
 
 ### Users Table
-
+---
 | Column   | Type    | Constraints | Notes  |
 | -------- | ------- | ----------- | ------ |
 | id       | UUID    | Primary Key |        |
