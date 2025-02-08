@@ -117,7 +117,7 @@ This document specifies the design and functionality of the API Service module. 
 
 ## Flow of Execution
 
-```mermaid
+```
 graph TD
     A[User completes an action] --> B[Frontend sends PATCH /api/scoreboards]
     B --> C[API validates user authentication (JWT)]
